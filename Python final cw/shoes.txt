@@ -1,0 +1,29 @@
+Loafer Light	GoldStar	965	1000.0	domestic
+Inigo 732	Caliber	50	2800.0	domestic
+
+Lite Racer	Adidas	60	7000.0	international
+
+Air Max	Nike	80	8500.0	international
+
+Classic Clog	Crocs	0	3200.0	international
+
+Campus Rider	Campus	1	1800.0	domestic
+
+Power Flex	Bata	160	2200.0	domestic
+
+UltraBoost	Adidas	180	12000.0	international
+
+Chuck Taylor	Converse	0	4500.0	international
+
+Old Skool	Vans	0	5000.0	international
+
+Wave Rider	Mizuno	0	9500.0	international
+
+Spark Pro	GoldStar	30	1500.0	domestic
+
+Duramo SL	Adidas	0	6000.0	international
+
+Revolution 6	Nike	0	5200.0	international
+
+Comfit Loafers	Hush Puppies	18	4000.0	domestic
+
