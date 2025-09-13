@@ -27,18 +27,11 @@ SpeedzWear-Shoes-System/
 ├── Write_file            # Generates restock & sales invoices
 ├── Read_file             # Reads all text files
 └── README.md             # Project documentation
-▶️ How to Run
-Open terminal and navigate to the project folder.
 
-Run the program:
-
-bash
-Copy code
 python main.py
 📸 Example Output
 1️⃣ Display Current Stock
-text
-Copy code
+
 --- Current Stock ---
 Type                 Brand        Qty      Price      Origin      
 ----------------------------------------------------------------------
@@ -49,9 +42,8 @@ Air Max              Nike         80       8500.0     international
 Classic Clog         Crocs        0        3200.0     international
 ...
 ======================================================================
+
 2️⃣ Selling Shoes
-text
-Copy code
 ============== Shoe Sales System =============
 ============ WELCOME TO SPEEDZWEAR SHOES ========
 1. Sell Shoes
@@ -62,8 +54,10 @@ Enter your choice (1-4): 1
 
 Customer name: Eijkeyal Pakhrin
 Enter shoe type to sell (or 'done' to finish): Loafer Light
+
 Enter quantity to sell for Loafer Light: 30
 Applying 7% discount for 30 domestic Loafer Light
+
 Item: Loafer Light, Qty: 30, Price: $1000.0, Discount: 7.0%, Total before: $30000.00, Total after: $27900.00
 ...
 ================== SALE INVOICE ==================
@@ -77,17 +71,18 @@ Air Max        Nike           80   8500.00   international  5.0%    646000.00
 
 Total Amount = 873400.0
 Sale completed! Invoice saved as sale_invoice_EijkeyalPakhrin_20250913_140055.txt
+
 3️⃣ Restocking Shoes
-text
-Copy code
 ============== Shoe Sales System =============
 Enter your choice (1-4): 2
 Vendor name: Eijkeyal
 Shoe type to restock (or 'done' to finish): loafer light
 Quantity to add for Loafer Light: 300
+
 Restocked 300 Loafer Light
 Shoe type to restock (or 'done' to finish): lite racer
 Quantity to add for Lite Racer: 300
+
 Restocked 300 Lite Racer
 Shoe type to restock (or 'done' to finish): done
 
@@ -101,9 +96,8 @@ Lite Racer     Adidas         300  7000.0    international
 
 Total Amount = 2400000.0
 Restock completed! Invoice saved as invoice_restock_Eijkeyal_20250913_140138.txt
+
 4️⃣ Updated Stock After Transactions
-text
-Copy code
 --- Current Stock ---
 Type                 Brand        Qty      Price      Origin      
 ----------------------------------------------------------------------
@@ -114,11 +108,11 @@ Air Max              Nike         0        8500.0     international
 Classic Clog         Crocs        0        3200.0     international
 ...
 ======================================================================
+
 5️⃣ Exit Program
-text
-Copy code
 Enter your choice (1-4): 4
 Exiting... Goodbye!
+
 🛠️ Built With
 Python 3 – Core programming language
 
