@@ -144,7 +144,7 @@ Exiting... Goodbye!
 **Eijkeyal Pakhrin**
 – Developer & Maintainer
 
-- GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
+- GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
 - LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 - Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
   
